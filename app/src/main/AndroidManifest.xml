@@ -7,7 +7,7 @@
     <application>
         <uses-library android:name="com.google.android.things" />
 
-        <activity android:name=".AlarmaActivity">
+        <activity android:name=".M04_Piano">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

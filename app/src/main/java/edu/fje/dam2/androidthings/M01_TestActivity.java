@@ -25,7 +25,7 @@ import com.google.android.things.pio.Gpio;
  *
  * @see <a href="https://github.com/androidthings/contrib-drivers#readme">https://github.com/androidthings/contrib-drivers#readme</a>
  */
-public class TestActivity extends Activity {
+public class M01_TestActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
