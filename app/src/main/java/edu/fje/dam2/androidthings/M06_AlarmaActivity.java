@@ -3,10 +3,8 @@ package edu.fje.dam2.androidthings;
 import android.app.Activity;
 import android.os.Bundle;
 import android.os.SystemClock;
-import android.util.Log;
 import android.view.KeyEvent;
 
-import com.google.android.things.contrib.driver.button.Button;
 import com.google.android.things.contrib.driver.button.ButtonInputDriver;
 import com.google.android.things.contrib.driver.ht16k33.AlphanumericDisplay;
 import com.google.android.things.contrib.driver.ht16k33.Ht16k33;

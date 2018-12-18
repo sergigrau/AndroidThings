@@ -7,7 +7,11 @@ import com.google.android.things.contrib.driver.bmx280.Bmx280
 import com.google.android.things.contrib.driver.ht16k33.AlphanumericDisplay
 import com.google.android.things.contrib.driver.ht16k33.Ht16k33
 import com.google.android.things.contrib.driver.rainbowhat.RainbowHat
-
+/** Activitat en Kotlin que fa una lectura directe dels sensors BMX280
+ * Llegeix la temperatura i/o la pressió atmosfèrica i ho mostra en el display
+ * @author sergi.grau@fje.edu
+ * @version 1.0 15.12.2018
+ */
 class M05_LecturaDirecteBMX280: Activity() {
 
     private val handler = Handler()
