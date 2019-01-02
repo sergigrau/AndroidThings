@@ -7,6 +7,9 @@ import com.google.android.things.contrib.driver.rainbowhat.RainbowHat
 import com.google.android.things.pio.Gpio
 import kotlin.concurrent.timerTask
 
+/** Activitat amb Kotlin que utilitza la classe Timer en comptes de un fil creat de manera manual
+ *
+ */
 class M02_LedTimer : Activity() {
 
     private lateinit var led: Gpio

@@ -7,7 +7,7 @@
     <application>
         <uses-library android:name="com.google.android.things" />
 
-        <activity android:name=".M02_LedCicleActivity">
+        <activity android:name=".M10_REST">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.HOME"/>

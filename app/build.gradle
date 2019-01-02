@@ -35,6 +35,8 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'com.google.firebase:firebase-core:16.0.6'
     implementation 'com.google.firebase:firebase-database:16.0.5'
+    implementation 'org.nanohttpd:nanohttpd:2.2.0'
+
 }
 repositories {
     mavenCentral()
